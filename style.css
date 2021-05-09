@@ -8,6 +8,10 @@ html {
     font-size: 10px;
 }
 
+body {
+    font-family: "Poppins", sans-serif;
+}
+
 .left-col {
     background: #5200ff;
     color: #FFF;
@@ -50,8 +54,32 @@ html {
 }
 
 .text {
-    font-family: "Poppins", sans-serif;
     font-size: 2rem;
     text-align: center;
     font-style: normal;
+}
+
+label {
+    display: block;
+    font-size: 1.8rem;
+    margin-bottom: 0.75em;
+}
+
+input {
+    width: 100%;
+    background: #EDEDED;
+    font-size: 1.6rem;
+    padding: .5em .75em;
+    border: 1px solid #C7C7C7;
+    margin-bottom: 2.5em;
+}
+
+button {
+    width: 100%;
+    background: #5200ff;
+    color: #FFF;
+    font-size: 1.6rem;
+    padding: 0.5em;
+    border: none;
+    cursor: pointer;
 }
