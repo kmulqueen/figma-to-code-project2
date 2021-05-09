@@ -85,6 +85,10 @@ button {
 }
 
 @media only screen and (min-width: 600px) {
+    .left-col, .left-col::before {
+        height: 50vh;
+    }
+
     .form {
         display: grid;
         grid: 1fr auto / repeat(2, 1fr);
