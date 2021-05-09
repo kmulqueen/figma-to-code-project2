@@ -113,6 +113,10 @@ button {
         align-items: center;
     }
 
+    .left-col::before {
+        height: 100vh;
+    }
+
     .title, .text {
         text-align: end;
     }
