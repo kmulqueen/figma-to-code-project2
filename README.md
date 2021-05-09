@@ -10,8 +10,8 @@ This is my interpretation of the 2nd project found in [Gary Simon's "From Figma 
 
 ## Tablet
 
-![](./tablet.png)
+<img src="./tablet.png" width="768px" />
 
 ## Phone
 
-![](./phone.png)
+<img src="./phone.png" height="600px" />
